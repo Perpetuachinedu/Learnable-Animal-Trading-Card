@@ -24,6 +24,7 @@
     padding: 15px;
     width: 300px;
     border-radius: 3px;
+    margin: 100px auto;
 }
 #second-div {
     border: 1px black solid;
